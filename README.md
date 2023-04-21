@@ -1,5 +1,27 @@
-# 💫 About Me:
-I'm a software developer and a computer science student. I'm interested in various technologies and programming languages and always excited to learn new things. On my GitHub profile, you can find some of my personal projects and contributions to open source projects.
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
+  
+
+## **💫 About Me:**  
+  
+
+#### <div align="center">I'm a software developer and a Technology student. I'm interested in various technologies and programming languages and always excited to learn new things. On my GitHub profile, you can find some of my personal projects and contributions to open source projects. 🚀</div>  
+  
+
+- 🔭 I’m currently working on  https://github.com/Saliya99/rock_vin_cafe_app  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to Java, Flutter and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces😘  
+  
+
+<br/>  
 
 
 ## 🌐 Socials:

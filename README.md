@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saliya Prasandike</h1>
 <h3 align="center">I am a software developer who’s equally proficient in frontend (client-side) development and backend (server-side) development.</h3>
-<img aling="center" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<img aling="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliya99&label=Profile%20views&color=0e75b6&style=flat" alt="saliya99" /> </p>
 

@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on  https://github.com/Saliya99/rock_vin_cafe_app  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Flutter and SpringBoot  
   
 
 - ❓ Ask me about anything related to Java, Flutter and related technologies  

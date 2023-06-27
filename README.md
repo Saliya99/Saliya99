@@ -3,7 +3,7 @@
 </div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=saliya99&&style=flat-square" align="center" />
-</div>
+</div><br/>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri+Head&size=22&pause=1000&color=F71D84&center=true&repeat=false&width=435&lines=Saliya+Prasandike" alt="Typing SVG" /></a>
 </div>

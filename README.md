@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=saliya99&&style=flat-square" align="center" />
 </div> 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F71D84&center=true&vCenter=true&width=435&lines=Saliya+Prasandike;Full-stack+web+and+app+Developer;Experienced+UI%2FUX+Designer;4%2B+Years+of+Coding+Experience+;Always+Learning+New+Things+!!!" alt="Typing SVG" /></a>
 
 ## **💫 About Me:**  
   

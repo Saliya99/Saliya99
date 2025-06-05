@@ -9,8 +9,7 @@
 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F71D84&center=true&width=435&lines=Full-stack+web+and+app+Developer;Experienced+UI%2FUX+Designer;4%2B+Years+of+Coding+Experience+;Always+Learning+New+Things+!!!" alt="Typing SVG" /></a>
-</div>
-## **💫 About Me:**  
+</div>v💫 About Me:  
   
 
 #### <div align="center">👋 Hi, I’m Saliya Prasandike — Associate Software Engineer @ RE24 Limited (UK).

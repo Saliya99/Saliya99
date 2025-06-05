@@ -13,7 +13,9 @@
 ## **💫 About Me:**  
   
 
-#### <div align="center">I'm a software developer and a Technology student. I'm interested in various technologies and programming languages and always excited to learn new things. On my GitHub profile, you can find some of my personal projects and contributions to open source projects. 🚀</div>  
+#### <div align="center">👋 Hi, I’m Saliya Prasandike — Associate Software Engineer @ RE24 Limited (UK).
+🚀 I work across Dev, DevOps & Cloud — building serverless apps, automating infra with AWS CDK, and crafting scalable APIs with Lambda, Cognito & DynamoDB.
+🔧 Passionate about clean architecture, cloud-native solutions, and shipping fast.</div>  
   
 
 - 🔭 I’m currently working on  https://github.com/Saliya99/rock_vin_cafe_app  

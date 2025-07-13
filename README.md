@@ -12,7 +12,7 @@
   
 <div align="center">
 
-  <h2>👋 Hi, I’m <strong>Saliya Prasandike</strong> — Associate Software Engineer @ RE24 Limited (UK)</h2>
+  <h2>👋 Hi, I’m <strong>Saliya Prasandike</strong> — Software Engineer @ Amazoft</h2>
 
   🚀 I work across the full stack with a focus on <strong>Cloud, AWS, and DevOps</strong> — building serverless apps, automating infrastructure with <strong>AWS CDK</strong>, and crafting scalable APIs using <strong>Lambda, Cognito & DynamoDB</strong><br>
   🔧 Passionate about clean architecture, cloud-native solutions, and shipping fast.

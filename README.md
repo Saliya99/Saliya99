@@ -18,12 +18,6 @@
   🔧 Passionate about clean architecture, cloud-native solutions, and shipping fast.
 
   <br>
-
-  🔭 <strong>Currently building:</strong> an AWS Centralized Data Pool for company project re-infrastructure. <br>
-  🌱 <strong>Learning:</strong> AWS Certified Solutions Architect - Associate <br>
-  💬 <strong>Ask me about:</strong> Anything!!! <br>
-  ⚡ <strong>Fun fact:</strong> I’m a proud tab enthusiast 😘
-
 </div>
 
 <br/>  

@@ -1,6 +1,6 @@
 # Saliya Prasandike
 
-**Software Engineer at [Amazoft](https://amazoft.com)** · Matara, Sri Lanka
+**Software Engineer
 
 I build software for a living. Right now that is at Amazoft in Wellawatte: custom systems for businesses, the apps, the records, and the pieces that still have to work on a Tuesday. Before that I was at [RE24](https://www.linkedin.com/company/re24), shipping serverless systems for hourly-matched renewable energy.
 

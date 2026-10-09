@@ -4,7 +4,7 @@
 
 I build software for a living. Right now that is at Amazoft in Wellawatte: custom systems for businesses, the apps, the records, and the pieces that still have to work on a Tuesday. Before that I was at [RE24](https://www.linkedin.com/company/re24), shipping serverless systems for hourly-matched renewable energy.
 
-[LinkedIn](https://www.linkedin.com/in/mr-zaliya/) · [mrsprasandika@gmail.com](mailto:mrsprasandika@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mr-zaliya/) · [mrsprasandika@gmail.com](mailto:saliyaprasandike@gmail.com)
 
 ## What I do now
 

@@ -1,34 +1,47 @@
 # Saliya Prasandike
 
-**Software Engineer
+Software Engineer · Sri Lanka
 
-I build software for a living. Right now that is at Amazoft in Wellawatte: custom systems for businesses, the apps, the records, and the pieces that still have to work on a Tuesday. Before that I was at [RE24](https://www.linkedin.com/company/re24), shipping serverless systems for hourly-matched renewable energy.
+I lead a developer team and own delivery from the first sprint to production.
 
-[LinkedIn](https://www.linkedin.com/in/mr-zaliya/) · [mrsprasandika@gmail.com](mailto:saliyaprasandike@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mr-zaliya/) · [saliyaprasandike@gmail.com](mailto:saliyaprasandike@gmail.com)
 
-## What I do now
+## Now
 
-**Amazoft** — Software Engineer, since July 2025
+Leading the team means the lifecycle sits with me, in this order:
 
-I take a system from the screen through the API, the review, and the release. Lately that has been a point-of-sale product and its Windows desktop app, plus hiring and education platforms. The stack on those is Next.js and Electron up front, PHP and Node on the API, and AWS (Amplify, CDK, Cognito) underneath.
+1. **Agile** — turn the backlog into sprint work and keep the team on what ships next.
+2. **Build from zero** — stand a product up from an empty repo: UI, API, and data.
+3. **Code review and pull requests** — review the team's PRs and decide what is ready to merge.
+4. **CI/CD** — run the build and the release as a pipeline.
+5. **Cloud deployment** — deploy to AWS, from the dev environment through to production.
+6. **DevOps** — own the environments, the release, and the fix when production breaks.
 
-**RE24** — Intern, then Associate Software Engineer, May 2024 – June 2025
+## What I've shipped
 
-Production APIs, user management, and AWS Lambda. The product matches renewable energy to data-centre demand, hour by hour. I joined as an intern, stayed on as an associate, and left for Amazoft.
+- A point-of-sale system and the Windows desktop app that runs it. Next.js and Electron on the front, PHP and Node on the API, AWS underneath.
+- Hiring and education platforms. Sign-in, profiles, and the cloud they deploy on: Amplify, CDK, and Cognito.
+- Production APIs and user management on AWS Lambda, for energy that has to match hour by hour.
+- [Coastal car corrosion detection](https://github.com/Saliya99/Car_corrosion_detection). Compared YOLOv8n, EfficientNetB7, and VGG16 on cars that live near the sea. EfficientNetB7 reached 84.08%. [Paper](https://www.tec.ruh.ac.lk/ricit24/wp-content/uploads/2024/11/RICIT%202024%201.pdf).
+- [A Flutter app for a cafe and inn in Midigama](https://github.com/Saliya99/rock_vin_cafe_app). Menu, orders, and reservations.
+- A hostel system with QR tracking for students and wardens. Java and Spring Boot on the backend, MySQL underneath.
 
-## Before that
+## Stack
 
-**University of Ruhuna** — Software Engineering, 2020–2024
+**Languages** — TypeScript, JavaScript, PHP, Python, SQL
 
-- [Coastal car corrosion](https://github.com/Saliya99/Car_corrosion_detection). We compared YOLOv8n, EfficientNetB7, and VGG16 on cars that live near the sea. EfficientNetB7 reached 84.08%. [Paper](https://www.tec.ruh.ac.lk/ricit24/wp-content/uploads/2024/11/RICIT%202024%201.pdf).
-- [RockVin Cafe & Surfer's Inn](https://github.com/Saliya99/rock_vin_cafe_app), Midigama. A Flutter app for the menu, orders, and reservations.
-- Hostel assets for the university. QR tracking for students and wardens, Java and Spring Boot on the backend, MySQL underneath.
+**Web and desktop** — React, Next.js, Electron, HTML, CSS
 
-## Stack I use
+**Mobile** — Flutter
 
-TypeScript · JavaScript · PHP · Python  
-React · Next.js · Electron · Flutter  
-Node.js · Laravel · MySQL  
-AWS Lambda · CDK · Cognito · Amplify · DynamoDB
+**Backend** — Node.js, Laravel, REST APIs
+
+**Cloud** — AWS Lambda, CDK, Cognito, IAM, Amplify, DynamoDB, SES etc etc
+
+**Data** — MySQL, DynamoDB, PostgreSQL
+
+**Delivery** — Git, GitHub, Linux, Docker, Cloudflare, CI/CD
+
+**Agentic AI** — AI-assisted development in the day-to-day build, review, and release
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saliya99&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats for Saliya99" />
